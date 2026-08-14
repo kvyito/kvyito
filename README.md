@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Academic Background:</h2>
-Systems Development - Federal Institute of Brasília.<br>
-Systems Analysis and Development - IESB
+Diploma in Systems Development (In Progress) - Federal Institute of Brasília.<br>
+Associate Degree in Systems Analysis and Development - IESB
 </div>
 
 <div align="center">
