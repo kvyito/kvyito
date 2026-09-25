@@ -7,7 +7,7 @@ Associate Degree in Systems Analysis and Development - IESB
 
 <p>
   
-  [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,latex)](https://skillicons.dev)    
+  [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,git,github,latex)](https://skillicons.dev)    
   
 </p>
 
