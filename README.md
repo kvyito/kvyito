@@ -7,8 +7,8 @@ Hi! I'm a Software Development student with a strong interest in learning app de
 
 <h3>Currently Focusing On</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=electron,react,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,react,ts,js,tailwind)](https://skillicons.dev)
 
 <h3>Tech I Build With & Learn</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,latex,git,github,vscode,figma,obsidian,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,latex,git,github,windows,vscode,figma,obsidian,ps,ai)](https://skillicons.dev)
