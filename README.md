@@ -2,12 +2,6 @@
 Systems Development (In Progress) - Federal Institute of Brasília.<br>
 Associate Degree in Systems Analysis and Development - IESB
 
+<h2>Tech I've Touched & Learning</h2>
 
-<h2>Tech Stacks and Tools</h2>
-
-<p>
-  
-  [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,git,github,latex)](https://skillicons.dev)    
-  
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,html,css,latex,git,github,vscode,figma,ps,ai)](https://skillicons.dev)
